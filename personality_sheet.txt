@@ -1,0 +1,45 @@
+Personal Detail Sheet
+=====================
+
+Section 1: Personal Information
+---------------------------------
+1. Full Name: 
+2. Date of Birth (DD/MM/YYYY): 
+3. Age: 
+4. Gender: [ ] Male   [ ] Female   [ ] Non-binary   [ ] Prefer not to say
+5. Nationality: 
+6. Marital Status: [ ] Single   [ ] Married   [ ] Divorced   [ ] Widowed   [ ] Living with a Partner
+
+Section 2: Contact Information
+------------------------------
+7. City: 
+8. State/Province: 
+9. Postal/ZIP Code: 
+10. Country: 
+
+Section 3: Educational Background
+---------------------------------
+11. Highest Level of Education: 
+    [ ] High School   [ ] Bachelor’s Degree   [ ] Master’s Degree   [ ] Doctorate   [ ] Other
+12. Field of Study: 
+13. Year of Graduation: 
+
+Section 4: Employment Details
+------------------------------
+14. Current Employment Status:
+    [ ] Employed   [ ] Self-employed   [ ] Unemployed   [ ] Student   [ ] Retired
+15. Occupation/Job Title: 
+16. Years of Experience in Your Field: 
+17. Industry: 
+
+Section 5: Lifestyle and Interests
+------------------------------------
+18. Hobbies and Interests: 
+19. Preferred Mode of Communication:
+    [ ] Email   [ ] Phone   [ ] SMS   [ ] Social Media   [ ] Other
+20. Languages Spoken: 
+21. Do you have any dietary restrictions? (Yes/No): 
+22. If Yes, please specify:
+
+------------------------------------------------------------
+Please fill out this detail sheet carefully. Your information will be used by the AI to customize your survey experience.
